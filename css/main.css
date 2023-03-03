@@ -2514,6 +2514,7 @@ footer .footer-social {
 	padding: 0;
 	position: relative;
 	top: -.3rem;
+	background:#990047;
 }
 footer .footer-social li {
 	display: inline-block;
